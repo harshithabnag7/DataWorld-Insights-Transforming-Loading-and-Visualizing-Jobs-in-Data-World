@@ -4,7 +4,7 @@
 
 ### Implemented batch processing and conducted data modeling in Snowflake, authoring SQL code to optimize data storage and retrieval, enhancing efficiency in managing large-scale datasets.
 
-### Workflow:
+### Workflow:![Image](Airflow.png)
 
 ### Integrated Tableau for data visualization, extracting Snowflake data to craft a dashboard featuring 4-5 visualizations, providing actionable insights into the Jobs in Data World dataset.
 

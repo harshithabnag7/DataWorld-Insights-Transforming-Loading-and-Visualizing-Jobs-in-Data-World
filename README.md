@@ -11,7 +11,7 @@
 ### Dashboard Link :  [Tableau Dashboard ](https://public.tableau.com/app/profile/harshitha.b.nagaraj/vizzes)  👈
 
 
-### Dashboard Image : 
+### Dashboard Image : ![Image2](MainDashboard.png)
 
 
 

@@ -8,7 +8,7 @@
 
 ### Integrated Tableau for data visualization, extracting Snowflake data to craft a dashboard featuring 4-5 visualizations, providing actionable insights into the Jobs in Data World dataset.
 
-### Dashboard Link :  [Tableau Dashboard ](https://public.tableau.com/app/profile/harshitha.b.nagaraj/vizzes)  👈
+### Dashboard Link :  [Tableau Dashboard ](https://public.tableau.com/app/profile/harshitha.b.nagaraj/viz/JobsinDataWorld/MainDashboard)  👈
 
 
 ### Dashboard Image : ![Image2](MainDashboard.png)

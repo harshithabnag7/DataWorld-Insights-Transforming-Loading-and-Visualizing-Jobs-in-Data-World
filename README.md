@@ -2,7 +2,7 @@
 
 ### Executed ETL processes for a 10k-row dataset in the data jobs domain, leveraging Apache Pyspark for transformation and AWS services such as EC2, EMR, and S3 for ETL workflows, resulting in a streamlined data pipeline.
 
-### Implemented batch processing and conducted data modeling in Snowflake, authoring SQL code to optimize data storage and retrieval, enhancing efficiency in managing large-scale datasets.
+### Implemented batch processing and conducted data modeling in Snowflake, wrote SQL code to optimize data storage and retrieval, enhancing efficiency in managing large-scale datasets.
 
 ### Workflow:![Image](Airflow.png)
 

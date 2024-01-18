@@ -11,7 +11,7 @@
 
 ### :chart_with_upwards_trend: **Project Overview:** 
 
-#### Implemented ETL processes for a 10k-row data jobs dataset using Apache Pyspark and AWS (EC2, EMR, S3), conducted data modeling in Snowflake, optimized storage with SQL, and created a Tableau dashboard with 4-5 visualizations for actionable insights.
+Implemented ETL processes for a 10k-row data jobs dataset using Apache Pyspark and AWS (EC2, EMR, S3), conducted data modeling in Snowflake, optimized storage with SQL, and created a Tableau dashboard with 4-5 visualizations for actionable insights.
 
 ### 💡 **Insights:**
 
@@ -28,7 +28,7 @@
 
 ### :lock: Conclusion: 
 
-#### Completing the ETL processes and finding useful insights show how having diverse skills in handling data and creating visualizations is crucial. This project's impact demonstrates how data jobs are changing, paving the way for more improvements in using data for smart decision-making.
+Completing the ETL processes and finding useful insights show how having diverse skills in handling data and creating visualizations is crucial. This project's impact demonstrates how data jobs are changing, paving the way for more improvements in using data for smart decision-making.
 
   
 

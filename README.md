@@ -19,7 +19,7 @@
  * Data jobs are paying more in 2023, showing that companies really value people who know how to work with data.
  * Also, the job that pays the most is called Analytics Engineering Manager, a role that combines analyzing data and handling it like an engineer. This job is in demand because it's all about making sense of data for smart decision-making.
 
-### 📚 Learning:
+### 📚 Learnings:
 
  * AWS services like EC2 and EMR provide scalable solutions for growing data processing needs.
  * Cost savings result from paying only for the computing power and storage used in AWS.
